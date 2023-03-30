@@ -10,3 +10,5 @@ Customer demographics and insights.
 
 Task 3: Diversity & Inclusion
 Gender balance in the executive suite.
+
+Note : Use Microsoft PowerBI to open the source file and If you don't have PowerBI I have attached the dashboard image for each task so you can refer images to under the outcome and methods. 
